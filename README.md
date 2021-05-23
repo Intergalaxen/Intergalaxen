@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Intergalaxen
 - 👀 I’m interested in cyber security and Web3 develvopment
-- 🌱 I’m currently learning fundamentals in blockchain technology and security
-- 💞️ I’m looking to collaborate on bounty hunting and cyber security
+- 🌱 I’m currently learning the fundamentals in blockchain technology and cyber security
+- 💞️ I’m looking to collaborate on bounty hunting and developing for the Web 3.0
 - 📫 Follow me on twitter @intergalaxen
 
 <!---
