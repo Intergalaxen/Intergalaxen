@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Intergalaxen
-- 👀 I’m interested in cyber security and music
-- 🌱 I’m currently learning fundamentals in database structures and security
+- 👀 I’m interested in cyber security and Web3 develvopment
+- 🌱 I’m currently learning fundamentals in blockchain technology and security
 - 💞️ I’m looking to collaborate on bounty hunting and cyber security
 - 📫 Follow me on twitter @intergalaxen
 
